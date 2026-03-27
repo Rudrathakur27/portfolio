@@ -1,4 +1,4 @@
-# Pushpak Tiwari - Portfolio
+# Rudra Pratap Singh - Portfolio
 
 A modern, responsive portfolio website built with Next.js, TypeScript, and Tailwind CSS. This project showcases my journey as a **B.Tech AIML Student**, **Google Student Ambassador**, and **Community Builder**.
 
@@ -70,7 +70,7 @@ src/
 
 ## 📬 Contact
 
-- **Email**: [pushpaktiwari6@gmail.com](mailto:pushpaktiwari6@gmail.com)
+- **Email**: [pushpaktiwari6@gmail.com](mailto:rudrathakur0045@gmail.com)
 - **LinkedIn**: [Pushpak Tiwari](https://www.linkedin.com/in/pushpaktiwari/)
 - **GitHub**: [pushpaktiwarii](https://github.com/pushpaktiwarii)
 
