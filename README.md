@@ -27,7 +27,7 @@ A modern, responsive portfolio website built with Next.js, TypeScript, and Tailw
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/pushpaktiwarii/My-Protfolio.git
+   https://github.com/Rudrathakur27/portfolio.git
    cd My-Protfolio
    ```
 
@@ -71,9 +71,9 @@ src/
 ## 📬 Contact
 
 - **Email**: [pushpaktiwari6@gmail.com](mailto:rudrathakur0045@gmail.com)
-- **LinkedIn**: [Pushpak Tiwari](https://www.linkedin.com/in/pushpaktiwari/)
-- **GitHub**: [pushpaktiwarii](https://github.com/pushpaktiwarii)
+- **LinkedIn**: [Rudra Pratap Singh](linkedin.com/in/rudra-pratap-singh-384376328)
+- **GitHub**: [Rudra Pratap Singh](https://github.com/Rudrathakur27)
 
 ---
 
-Built with ❤️ by Pushpak Tiwari
+Built with ❤️ by Rudra Pratap Singh 
