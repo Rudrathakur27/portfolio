@@ -70,7 +70,7 @@ src/
 
 ## 📬 Contact
 
-- **Email**: [pushpaktiwari6@gmail.com](mailto:rudrathakur0045@gmail.com)
+- **Email**: [rudrathsakur0045@gmail.com](mailto:rudrathakur0045@gmail.com)
 - **LinkedIn**: [Rudra Pratap Singh](linkedin.com/in/rudra-pratap-singh-384376328)
 - **GitHub**: [Rudra Pratap Singh](https://github.com/Rudrathakur27)
 
