@@ -13,7 +13,7 @@ A modern, responsive portfolio website built with Next.js, TypeScript, and Tailw
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/)
 - **Animations**: [Framer Motion](https://www.framer.com/motion/) & Magic UI
 - **Icons**: [Lucide React](https://lucide.dev/)
-- **Deployment**: [Netlify](https://www.netlify.com/)
+- **Deployment**: [Vercel](https://share.google/JUELubJLSAXDs3LST)
 
 ## 🎨 Features
 
