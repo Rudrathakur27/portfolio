@@ -4,7 +4,7 @@ A modern, responsive portfolio website built with Next.js, TypeScript, and Tailw
 
 ## 🚀 Live Demo
 
-[Live App URL](https://www.pushpaktiwari.tech/) 
+[Live App URL](https://rudra-portfolio-self.vercel.app/) 
 
 ## ✨ Technologies Used
 
